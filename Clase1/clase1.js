@@ -12,3 +12,4 @@ let sumaEdades = (primeraEdad + segundaEdad);
 alert ("La suma de ambas edades da un total de" + " " + sumaEdades)
 
 
+
