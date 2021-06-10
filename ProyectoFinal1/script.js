@@ -52,10 +52,10 @@ class tecnologia{
 }
 
 let miAuriculares = new tecnologia("Auriculares", "Samsung", "Buds Live", 15000);
-let miSmartWatch = new Tecnologia("SmartWatch", "Apple", "AppleWatch", 25000);
-let miLaptop = new Tecnologia("Laptop", "Apple", "MackBook Pro", 200000);
-let miTeclado = new Tecnologia("Teclado", "Hyperx", "Origins", 20000);
-let miMouse = new Tecnologia("Mouse", "Logitech", "MX3", 18000);
+let miSmartWatch = new tecnologia("SmartWatch", "Apple", "AppleWatch", 25000);
+let miLaptop = new tecnologia("Laptop", "Apple", "MackBook Pro", 200000);
+let miTeclado = new tecnologia("Teclado", "Hyperx", "Origins", 20000);
+let miMouse = new tecnologia("Mouse", "Logitech", "MX3", 18000);
 miAuriculares.mostrarproductosTecnologia();
 miSmartWatch.mostrarproductosTecnologia();
 miLaptop.mostrarproductosTecnologia();
